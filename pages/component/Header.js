@@ -25,7 +25,7 @@ function Header() {
 
 <div className={styles.img}>
 
-<img src="./Assets/logo4.png"/>
+<img src="./Assets/logo4.png">/img>
 
 </div>
 
