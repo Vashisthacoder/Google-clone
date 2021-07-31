@@ -1,0 +1,138 @@
+#image{
+    margin-left:170px;
+}
+
+#maps{
+    margin-left:14px;
+    
+    
+}
+
+
+
+
+.right{
+
+
+    margin-left: 190px;
+    display: flex;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-style: inherit;
+      font-size: small;
+      padding: 10px;
+      margin-left: 192px;
+    
+}
+
+.icon {
+
+  display: flex;
+    margin-top: 24px;
+    margin-left: 10px;
+    margin-top: 23px;
+    
+   
+    
+
+}
+
+.weather{
+
+    margin-left: -199px;
+    margin-top: -150px;
+    height: -100px;
+    width: -100px;
+    margin-top: -100px;
+ 
+   
+}
+
+
+.img{
+
+    width:210px;
+    margin-left: 39px;
+    padding-top: -30px;
+    margin-bottom:-170px;
+    margin-top:390px;
+    margin-top: -250px;
+    width:20px;
+    margin-left: 50px;
+
+
+}
+
+
+.image{
+
+    color:rgba(41, 40, 40, 0.658);
+    
+ 
+ 
+  font-style:oblique;
+  font-size:large;
+  
+  margin-left: 180px;
+  margin-top: -80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  
+  
+  
+}
+
+
+
+
+
+#input{
+
+    width: 400px;
+    
+    border-radius: 19px;
+    padding: 18px;
+    
+    color:gray;
+    
+    border: 5px rgb(160, 156, 156);
+    border-style: outset;
+    margin-left: 60px;
+    padding-top: -400px;
+    margin-top: 49px;
+    font-size: 24px;
+    color:black;
+    
+}
+
+
+#icon{
+
+
+  
+   color: hsl(240, 94%, 54%);
+   margin-bottom: 97px;
+   height: 30px;
+   width: 200px;
+   margin-left: 330px;
+   margin-top: -49px;
+}
+
+#id{
+
+    font-size:large;
+    margin-left: -59px;
+    color: black;
+    margin-top: 80px;
+    height: 30px;
+    width: 200px;
+   
+ 
+}
+
+
+.rk{
+
+    margin-top: 70px;
+    color: blue;
+}
+
