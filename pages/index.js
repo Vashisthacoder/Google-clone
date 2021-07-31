@@ -58,14 +58,6 @@ export default function Home() {
 </div>
 
 
-<div className={styles.weather}>
-
-
-
-<a href="https://www.msn.com/en-in/weather/today/weather-today/we-city"> <img src="./Assets/weather2.png"></img></a>
-
-</div>
-
 
 
 
@@ -78,11 +70,7 @@ export default function Home() {
 
  <form>
       
- <div className={styles.img}>
-
-<img src="./Assets/logo4.png"></img>
-
-</div>
+ 
 
     <div   className={styles.input}>
      
@@ -118,9 +106,7 @@ export default function Home() {
 
 </div>
 
-<div className={styles.rk}>
-  <h3>Developed By: Ritik / Kartik</h3>
-</div>
+
   
 
 
