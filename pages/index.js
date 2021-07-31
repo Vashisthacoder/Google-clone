@@ -62,7 +62,7 @@ export default function Home() {
 
 
 
-<a href="https://www.msn.com/en-in/weather/today/weather-today/we-city"> <img src="./Assets/weather2.png"/></a>
+<a href="https://www.msn.com/en-in/weather/today/weather-today/we-city"> <img src="./Assets/weather2.png"></img></a>
 
 </div>
 
@@ -80,7 +80,7 @@ export default function Home() {
       
  <div className={styles.img}>
 
-<img src="./Assets/logo4.png"/>
+<img src="./Assets/logo4.png"></img>
 
 </div>
 
@@ -119,7 +119,7 @@ export default function Home() {
 </div>
 
 <div className={styles.rk}>
-  <h3>Developed By: Ritik & Kartik</h3>
+  <h3>Developed By: Ritik / Kartik</h3>
 </div>
   
 
