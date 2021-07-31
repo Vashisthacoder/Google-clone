@@ -99,9 +99,7 @@ export default function Home() {
 
 <div className={styles.image}>
 
-  <RoomIcon id={styles.id}/><h3> Don't be embarrassed by your failures.
-    Learn from them and start again...
-  </h3>
+ 
 
 
 </div>
