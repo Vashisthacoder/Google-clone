@@ -23,11 +23,7 @@ function Header() {
         <div>
 
 
-<div className={styles.img}>
 
-<img src="./Assets/logo4.png"></img>   
-
-</div>
 
         
 <form>
@@ -62,12 +58,6 @@ function Header() {
   
   
    </form>
-
-    <div>
-
-     
-    </div>
-   
 
 
    

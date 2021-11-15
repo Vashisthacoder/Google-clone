@@ -57,13 +57,9 @@ export default function Home() {
 
 </div>
 
-
 <div className={styles.weather}>
 
-
-
-<a href="https://www.msn.com/en-in/weather/today/weather-today/we-city"> <img src="./Assets/weather2.png"></img></a>
-
+<img src={"./Assets/weather2.png"} alt="google"/> 
 </div>
 
 
@@ -78,11 +74,15 @@ export default function Home() {
 
  <form>
       
- <div className={styles.img}>
 
-<img src="./Assets/logo4.png"></img>
+<div className={styles.img}>
+
+  <img src={"./Assets/logo4.png"} alt="google1"/>
 
 </div>
+
+ 
+
 
     <div   className={styles.input}>
      
@@ -111,16 +111,18 @@ export default function Home() {
 
 <div className={styles.image}>
 
-  <RoomIcon id={styles.id}/><h3> Don't be embarrassed by your failures.
-    Learn from them and start again...
-  </h3>
+ 
 
 
 </div>
+
 
 <div className={styles.rk}>
   <h3>Developed By: Ritik / Kartik</h3>
 </div>
+
+
+
   
 
 
